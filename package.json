@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "autoprefixer": "^10.4.15",
     "browser-sync": "^2.29.3",
     "del": "^7.1.0",
     "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-concat": "^2.6.1",
     "gulp-csso": "^4.0.1",
@@ -16,5 +18,14 @@
     "imagemin-mozjpeg": "^10.0.0",
     "imagemin-pngquant": "^9.0.2",
     "log-symbols": "^5.1.0"
-  }
+  },
+  "name": "rocketbusiness",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
